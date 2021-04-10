@@ -1,3 +1,4 @@
+
 import requests
 
 API_KEY = '2f82479a70b61e8898c5a891d16804bc'
@@ -12,5 +13,6 @@ def get_protein():
     return json['totalNutrients']['PROCNT']['quantity']
 def get_carbs():
     return json['totalNutrients']['CHOCDF']['quantity']
+
 
 
