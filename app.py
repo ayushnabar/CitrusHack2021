@@ -1,7 +1,7 @@
 #import firebase_admin
-import pyrebase
+#import pyrebase
 import json
-from firebase_admin import credentials, auth
+#from firebase_admin import credentials, auth
 from flask import Flask, request
 from flask import Flask, render_template
 
