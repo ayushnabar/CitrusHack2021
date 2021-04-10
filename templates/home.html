@@ -1,12 +1,23 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-</head>
-<body>
-<form action="/action_page.php">
-  <input type="file" id="myFile" name="filename">
-  <input type="submit">
-</form>
-</body>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>NutriGo</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/shared.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/main.css') }}">
+  </head>
+  <body>
+    <ul class="navigation">
+      <li><a href="/">Home</a></li>
+      <li><a href="/diary">Diary</a></li>
+      <li><a href="/shop">Shop</a></li>
+      <li><a href="/aboutus">About Us</a></li>
+    </ul>
+    <div class="header">
+      <div class="container">
+        <h1><span>NutriGo</span></h1>
+        <p>Track your meals and stay healthy!</p>
+      </div>
+    </div>
+  </body>
 </html>
