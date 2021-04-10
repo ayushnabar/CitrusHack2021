@@ -67,7 +67,7 @@ body {
   animation: fadeIn 1.5s;
   position: absolute;
   top: 50%;
-  width: 100%;
+  width: 50%;
   left: 0;
   transition: translate(-50% -50%);
   overflow: hidden;
