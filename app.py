@@ -56,10 +56,11 @@ def token():
     except:
         return {'message': 'There was an error logging in'},400
 @app.route('/')
-def hello_world():
+def home():
     return render_template('home.html')
+
 @app.route('/diary')
-def hello_world():
+def diary():
     return render_template('diary.html')
 
 if __name__ == '__main__':
