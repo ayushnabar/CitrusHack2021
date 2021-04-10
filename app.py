@@ -1,4 +1,4 @@
-import firebase_admin
+#import firebase_admin
 import pyrebase
 import json
 from firebase_admin import credentials, auth
