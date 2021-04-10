@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "citrushack2021-18177",
+    "private_key_id": "2bf3808a4fac769b0337258dc197c5da1de3de1d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxhgI7vSUVnUzS\nxOH8NxpEfr/8A/jvae+6N1hNYtOVXXnbdeXlN7CWHdfdAqJZ1JJVvq1gqmG+KwTl\nBmW0Q29ITxuFSaiBlM/FAFjyu+GuGrw+RHkL0AXDR7bNMiEaKhX7Hvxy56CwpKD7\nuv/9pBM/x2NroGAGT3j3+6kw/pixj62qFHB7TqVfmDk5K9Lh5INWKvRRQCiILUJG\n/Hbc5LJGls6dwuMUnOyVLXj4Xobwk6QoxEDJQ96r+SXakoRqCEKABI3K/RmjRuIM\nH2xFxXHTI0GNayjl9/WX06YI7IGRO+zp98WIW+lXo81z72Yqcjt4FZOOU2+T+Ji3\nrjhpqb+nAgMBAAECggEAD1N8ed/YhccwzLmGsRmowOUYeg91vGWu9qq0iunPToPl\nc1b4ZBOswSkOa9xAW/UINTLjEQdkrOBV6dfli+yOfPWncJhtXdKVJXLkOwCReVCB\nk/ahZK2u8a8NTyXWycV8ZFPGg70PmHB+HX2FgEZcCxORt8b+w0y1KuOlNb+lOx8B\nlcZlm8FGNO7i8jj7stfBsvfCeMIDpjW82abZ8uzhCqKiB8ELN/GFQzwU1Kq7L4GS\nH7j572/bgoc9SodAOoZfS+vL/bnnoR1prITCh2HUNXm0B7KYgtDlcmUUeZHRoTi2\n6aUqjJIh9Termv7b6dwMXPrvg5rnImBPZykQyUJz0QKBgQDWpGXVXfmfWD3T3/sV\nabeXa3WiXFz6mzGpYjD5IA3sQyF0Xdaiz9zWhhUxD53ttlXalwZTS0/0fcehGPTN\nz93HNB6WRKChf2D2l5bQBEd+2oar9oYnfJ2MBu8vWXr9GbKvEm7cce2U5T8disH1\n/nRfZZx3Wgpub53HzcUs8r6iNQKBgQDTuqphdvgXNnMbATxqxKpRalNX59WtgiPo\njcF29f31LnTetiV88Y4rviKA4oc71GeFR8K9Pc3Gaz2+OpQWQv7fdQW7u02oap19\nsTvTiiPtwQ3PtkRIkHjlY+T3myj6yFRMTeTXRdFNsHy4ejbO4j4wXRHWUgm3shbd\n9+pQZ3qV6wKBgEfBO73hpbKMWFb9WL3m0pZPOUsm33pz6V070y1lduIV6xgwyrEx\nFh2tQ2ZcVyqBux/RPy8XTUppxhPn+ObY58ZReSw5Ew4KPEsTkDpIQ/J3cXAJgP2w\nXibSpqFIo6H7Nk3qtp8BgzA0ly30FjV7dEH0ASOxOS2EKNYDxzfoiqxFAoGAfIUo\nlR+Rsp0sPvKQJL666BzfHTDUgzGpiqhr4lmz3NFQnHaFP6EUmvc8dY5EOFSn+UOF\n7SP+9DW33zu2Qg1utd6t24XBm03wh66HX9a7YKWMSN+J8x88arRAQbr3892DbkjV\nUCHYgZdNEnWV7EA0kN77kY839dgACNU38ceZ2bcCgYByrQDahf0IRZqmi8n4MxcF\nIIyCapvFtGWowuuUaxGTRj2TBt8g0eAcACZ65yjS93Q+CyIfZ16ky7BbMrd9ny6k\nYpGoG4u4keepbnAt1XMkDPpsfEk/TFq2p7eaHCfLmyhrIM3IQZ2qfI1KAvxCDiHs\nEJM+HN5XIleafCwme0+a1A==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-pcgau@citrushack2021-18177.iam.gserviceaccount.com",
+    "client_id": "116950577033843760102",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pcgau%40citrushack2021-18177.iam.gserviceaccount.com"
+  }
+  
